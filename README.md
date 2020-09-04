@@ -6,9 +6,9 @@
 
 ---
 
-- 🔭 I’m currently working on Full Stack Development Certification
-- 🌱 I’m currently learning everything I can about technology and new languages
-- 👯 I’m looking to collaborate on large scale projects with real life problems to solve
+- 🔭 I’m currently working on my Full Stack Development Certification.
+- 🌱 I’m currently learning everything I can about technology and new languages.
+- 👯 I’m looking to collaborate on large scale projects with real life problem resolution.
 - 🤔 I’m looking for help with Job Placement
   <br/>
 
