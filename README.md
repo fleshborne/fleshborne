@@ -43,7 +43,7 @@
 ---
 
 <img align="left" alt="Fleshborne's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Fleshborne&show_icons&theme=tokyonight&count_private=true">
-<img align="right" alt= "Fleshborne's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fleshborne&layout=compact">
+<img align="left" alt= "Fleshborne's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fleshborne&layout=compact">
 
 <!--
 **fleshborne/fleshborne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
