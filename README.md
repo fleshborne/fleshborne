@@ -6,10 +6,10 @@
 
 ---
 
-- 🔭 I’m currently working on my Full Stack Development Certification.
+- 🔭 I’m a Full Stack Developer and Logistics Tech, working for FlashParking.
 - 🌱 I’m currently learning everything I can about technology and new languages.
 - 👯 I’m looking to collaborate on large scale projects with real life problem resolution.
-- 🤔 I’m looking for help with Job Placement
+- 🤔 Lets get to work
   <br/>
 
 ## 📫 How to reach me:
